@@ -122,7 +122,7 @@ function App() {
         <Paper sx={{ p: 3, mb: 4, backgroundColor: '#E8F5E8' }}>
           <Typography variant="h4" gutterBottom sx={{ display: 'flex', alignItems: 'center' }}>
             <Nature sx={{ mr: 2, color: '#4CAF50' }} />
-            AIML-Powered Basil Health Analysis
+            ML-Powered Basil Health Analysis
           </Typography>
           <Typography variant="body1" color="text.secondary">
             Upload an image of a basil leaf or select from our samples to detect diseases and learn about 
